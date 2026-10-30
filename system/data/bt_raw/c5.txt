@@ -1,0 +1,93 @@
+B07Q82MG8S|155.98|4.6|5700|900+|98|Mr. Heater 18,000 BTU Big Buddy Heater
+B00TQ6BZYY|109.99|4.7|460|600+|98|Portable Propane Fire Pit 19" 60,000 BTU
+B00CDJHIYW|126.48|4.6|1100|500+|98|Mr. Heater 12,000 BTU Hunting Buddy Portable Heater
+B0FXHXYC2Q|138.82|4.6|151|400+|98|Avenger Portable Outdoor Propane Cabinet Heater
+B088ZXN7DH|129|4.4|1200|300+|98|Mr. Heater Buddy FLEX 11,000 BTU Heater
+B01H50RF46|129.99|4.5|11100|1K+|99|ORORO Women's Heated Vest
+B01H50RF4Q|129.99|4.6|11300|700+|99|ORORO Men's Heated Vest
+B08F4XTDDG|129.99|4.5|3300|400+|99|Venustas Men's Heated Vest
+B01G8TPRHC|159.99|4.6|5000|100+|99|ORORO Men's Classic Heated Jacket
+B0CLR87BWR|145|4.7|5000|100+|99|Columbia Women's Heavenly Hooded Jacket
+B08F4ZZCDZ|123.48|4.3|3200|100+|99|Venustas Women's Waterproof Heated Jacket
+B0FH6C63Q1|109.99|4.5|637|100+|99|WASOTO Women's Heated Jacket
+B0B25C1JNF|149.99|4.5|751|500+|100|ORORO Women's Quilted Lightweight Heated Vest
+B08QJ77MRR|124.99|4.3|2100|300+|100|ORORO Women's Heated Fleece Vest
+B07WRR2SJ6|119.99|4.5|2800|100+|100|ORORO Men's Heated Fleece Vest
+B08F51Z8TM|129.99|4.5|2600||100|Venustas Women's Heated Vest
+B0DCHT89BM|109.99|4.4|2100||100|Venustas Women's Fleece Heated Vest
+B07H3NHW7T|179.99|4.6|1200||100|ORORO Women's 800-Fill Heated Down Vest
+B098WXWJ8Y|139.99|4.5|767|50+|101|Venustas Heated Hoodie with Battery
+B0CCPNRXSG|129.99|4.5|684||101|Graphene Women's Heated Jacket
+B08F55TBZ1|103.99|4.4|413||101|Venustas Heated Blanket Hoodie with Battery
+B08F28WK4R|105.19|4|1700|200+|102|Savior Heat Heated Glove Liners
+B08GSQJW2T|112.99|4.4|1300||102|Savior Heat Unisex Heated Gloves
+B08NB99WFH|129.99|4.3|1200||102|Savior Heat Heated Mittens
+B0FPR13V7L|109.99|4|141||103|Savior Heat App-Controlled Merino Heated Socks
+B07JMHBB6H|129.99|4.4|1800|100+|104|Legendary Whitetails Women's Insulated Hooded Parka
+B0CVXFLCSK|129.99|4.5|857|100+|104|IKAZZ Women's Thickened Winter Coat
+B0D45ZD5HB|120|4.6|134|100+|104|The North Face Girls' Reversible Perrito Jacket
+B0FMQPZ5QV|142.99|4.4|2700||104|Orolay Women's Mid-Long Quilted Down Puffer Coat
+B08G4V3XJ5|119.99|4.5|2600||104|Orolay Women's Fleece-Lined Parka
+B08LV5VD86|149.99|4.5|1100||104|Orolay Women's Thickened Long Down Jacket
+B0CMRPP33Z|110|4.7|1500|100+|105|The North Face Women's Osito Fleece Jacket
+B0BKQRT5JT|114.99|4.5|1500|100+|105|Columbia Women's Panorama Long Jacket
+B0DR66CJK9|154|4.6|122|50+|105|The North Face ThermoBall Jacket
+B07WKLZ3W2|119.98|4.5|29400||105|Orolay Women's Thickened Down Jacket
+B0FYJJQRK8|145|4.7|3400||105|Columbia Women's Heavenly Jacket
+B0B9G9M9PD|105.28|4.3|1900||105|Eddie Bauer Women's CirrusLite Down Jacket
+B0FYJBMVWC|188.74|4.5|633||105|Columbia Women's Powder Lite II Mid Jacket
+B083TKRJX7|139.99|4.8|1700|100+|106|Carhartt Women's Washed Duck Sierra Jacket
+B01HB26I8M|114.95|4.7|3200|50+|106|Ariat Women's New Team Softshell Jacket
+B0H8429W7S|129|4.7|134|50+|106|Eddie Bauer Women's Charly Waterproof Rain Jacket
+B09F3VR2FT|110|4.4|1800||106|The North Face Women's Venture 2 Rain Jacket
+B0CMRS757P|135|4.1|1100||106|Marmot Women's PreCip Eco Rain Jacket
+B00K1XANDK|135.2|4.4|6400|700+|107|Hunter Women's Original Tall Rain Boots
+B09577FFFT|124.98|4.6|1500|400+|107|Hunter Women's Play Short Rain Boot
+B00TT382HW|135|4.6|5200|100+|107|Muck Women's Arctic Sport II Tall Boot
+B0G2368678|140|4.4|1300|100+|107|Sorel Women's Out N About IV Waterproof Boot
+B0CLWCXPD7|110|4.6|2000|50+|107|Columbia Women's Newton Ridge Plus Waterproof Boots
+B0G22MK34D|170|4.7|539|50+|107|Sorel Women's Tivoli V Waterproof Boot
+B01E96Y8X0|184.95|4.7|11400||107|UGG Women's Mini Bailey Bow II Boot
+B0DPJH8ZRQ|129.95|4.7|3900|4K+|108|UGG Women's Tasman II Slipper
+B082HHTKB6|164.95|4.5|10400|1K+|108|UGG Women's Classic Ultra Mini Boot
+B084485683|129.95|4.8|4400|1K+|108|UGG Women's Cozy Slipper
+B0DPJJ6LLC|149.95|4.7|1600|1K+|108|UGG Women's Tazz II
+B0BLCF6BRN|149.95|4.7|3000|700+|108|UGG Women's Lowmel
+B0BGJ46N2N|174.95|4.5|2700|400+|108|UGG Women's Classic Ultra Mini Platform Boot
+B0D8BLSC11|126|4.7|501|200+|109|Hunter Women's Play Tall Rain Boot
+B00K1WAQH4|165|4.6|870|100+|109|Hunter Women's Original Short Rain Boots
+B00TT36H9W|144.99|4.7|2700|50+|109|Muck Women's Arctic Sport II Mid Boot
+B0D8FV67DV|104.96|4.6|258|50+|109|Hunter Original Kids Rain Boot
+B004QILD6W|115.99|4.6|11500|1K+|110|Igloo Polar Hard Cooler
+B0C4H82CHZ|138.88|4.5|2400|1K+|110|EUHOMY 19QT 12V Electric Cooler/Fridge
+B0GRWNHL76|109.99|4.5|9700|900+|110|Coleman Classic Wheeled Cooler
+B004XUNDX4|169.99|4.6|3000|600+|110|Igloo Maxcold Glide 110 Qt Wheeled Cooler
+B0CPMBTTNF|127.99|4.4|568|600+|110|Igloo Trailmate 52 Qt Roller Cooler
+B07DR3N3W3|135.99|4.5|2300|400+|110|VINGLI Rolling Ice Chest Party Cooler
+B0GTC1YL5T|249.99|4.6|754|400+|110|Ninja FrostVault 50 Qt Cooler with Dry Drawer
+B0GF2WVDJK|164.99|4.4|764|300+|110|Coleman Snap 'N Go Collapsible Hard Cooler
+B0DPN963G6|299.99|4.6|878|100+|111|Ninja FrostVault 45 Qt Wheeled Cooler
+B0C5JZLZB9|279|4.6|902|50+|111|RTIC 52 Qt Ultra-Light Wheeled Cooler
+B07PDCWHFK|169.99|4.2|559|50+|111|VINGLI 80 Qt Wagon Rolling Cooler
+B0DPN98BT7|279.95|4.7|443|50+|111|Ninja FrostVault 30 Qt Wheeled Cooler
+B0GVTR9WQ7|375|4.8|759||111|YETI Roadie 32 Wheeled Cooler
+B0DNGGYMRH|224.93|4.6|744||111|Coleman Pro 55-Quart Wheeled Cooler
+B07577JLZC|129|4.4|6500|100+|112|RTIC 30 Can Soft Cooler
+B0HC42HS8N|145|4.6|479|100+|112|YETI Daytrip 14L Soft Cooler Tote
+B0CGXYBL7Z|350|4.7|1100|50+|112|YETI Hopper M Series Soft Cooler
+B0DL7PHZ8X|157.49|4.6|109|50+|112|RTIC Ultra-Tough Backpack Cooler
+B002YKPR5M|105.75|4.7|3600||112|AO Coolers Expedition Canvas Soft Cooler
+B07PXFW9B7|100|4.7|2700||112|ICEMULE Classic Collapsible Sling Cooler
+B07577Z9T3|164|4.2|1300||112|RTIC 50 Can Soft Cooler
+B07GP6V695|109.1|4.7|8100||113|Carhartt Insulated 24 Can Cooler Backpack
+B07BFJZTMV|149.95|4.7|1100||113|ICEMULE Pro Collapsible Backpack Cooler
+B0DHHL4CQ1|230|4.8|1000||113|YETI Crossroads Backpack
+B09S4VVRYT|119.95|4.6|506||113|Swig Life Packi Backpack Cooler
+B07RQ9ZP2C|135.95|4.8|255||113|Corkcicle Eola Cooler Backpack
+B0FLXD1MSC|239.99|4.5|554|500+|114|Feelfunn 61 Qt Dual-Zone 12V Car Fridge
+B0DHHJSTBV|160|4.8|1600|100+|114|YETI Camino 35 Carryall Tote
+B0F1BBVH4R|250|4.8|554|100+|114|YETI Roadie 24 2.0 Hard Cooler
+B01M1OJO3B|203.15|4.6|2000|50+|114|RTIC 45 Qt Ultra-Tough Hard Cooler
+B0D9QWVQQC|140|4.8|1400|50+|114|YETI Camino 20 Carryall Tote
+B0D6WZK2BP|161.61|4.6|7600||114|YETI Daytrip Packable Lunch Bag
+B003V53GFM|395|4.8|1200||114|YETI Tundra 65 Cooler

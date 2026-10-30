@@ -1,0 +1,112 @@
+B0HJ9ZNRKT|239.99|4.7|4800|10K+|127|Apple Watch SE 3 GPS 40mm
+B0HJ9ZXCSD|389.99|4.7|334|10K+|127|Apple Watch Series 12 GPS 42mm
+B0HJB73N19|299|4.6|625|3K+|127|Apple Watch SE 3 GPS + Cellular 40mm
+B0CG6NBJ61|189.99|4.3|12500|7K+|128|Garmin vivoactive 5 GPS Smartwatch
+B0CT3SGHXL|192.49|4.6|5300|7K+|128|Garmin Forerunner 165 Running Smartwatch
+B0953X73TP|158|4.5|10300|1K+|128|Garmin Forerunner 55 GPS Running Watch
+B0F38GK1QZ|299|4.4|3800|1K+|128|Garmin vivoactive 6 GPS Smartwatch
+B0DSC8JF59|349|4.6|924|1K+|128|Garmin Instinct 3 AMOLED Rugged Smartwatch
+B0FRG18TLS|549|4.5|1900|500+|128|Garmin Venu 4 Fitness Smartwatch
+B0FKMM21BZ|145.99|4.3|268||129|K9 Kids Smart Watch with GPS Tracker
+B0FQFB8FMG|199|4.4|17200|10K+|130|Apple AirPods Pro 3
+B0GSS4SGZR|474.99|4.5|1100|10K+|130|Apple AirPods Max 2
+B0HJB76H2V|149|4.5|438|10K+|130|Apple AirPods 5 with Noise Cancellation
+B0CZPGX972|129.95|4.6|30000|10K+|131|Beats Solo 4 Wireless Headphones
+B0C8PR4W22|199.95|4.5|29000|10K+|131|Beats Studio Pro Wireless Headphones
+B0DZHR44J9|169|4.5|22500|10K+|131|Bose QuietComfort Wireless Headphones
+B0C9L8ZR6Q|213.41|4.6|4800|5K+|131|Skullcandy Crusher ANC 2 Headphones
+B0DZ77D5HL|399|4.7|29900|10K+|132|Apple iPad 11-inch (A16)
+B0DK3W6TV6|559.99|4.7|3400|3K+|132|Apple iPad mini (A17 Pro)
+B0784VYVL1|274.99|4.8|163|700+|133|Coleman Cascade 3-in-1 Camp Stove with Griddle
+B0DQ1ZF4TP|179.99|4.4|3400|600+|133|Char-Broil Grill2Go X200 Portable Gas Grill
+B00F3BHB80|224.94|4.4|6200|400+|133|Cuisinart Chef's Style Portable Tabletop Grill
+B07P8QXMH3|134.97|4.4|2100|400+|133|Megamaster Tabletop 2-Burner Gas Grill
+B07BLH19MX|424.99|4.5|6900|300+|133|Coleman RoadTrip 285 Portable Grill
+B07JZ7YRVR|197.96|4.7|1600|300+|133|Oklahoma Joe's Rambler Tabletop Charcoal Grill
+B08BWWKKKL|399|4.7|2000|2K+|134|Blackstone 1883 Original 28" Griddle with Hood
+B076MFM8LX|178.99|4.7|6800|1K+|134|Blackstone 1666 22" Tabletop Griddle
+B07ZS5RQZ4|219|4.7|2800|1K+|134|Blackstone 1813 22" Tabletop Griddle with Hood
+B07ZS5HWCC|159.99|4.7|2200|600+|134|Blackstone 1814 17" Propane Griddle
+B09HN1C1YJ|119.99|4.7|3700|1K+|135|Coleman Triton 2-Burner Propane Stove
+B00522F2R2|129.99|4.7|2100|800+|135|Iwatani 35FW Portable Butane Cooktop
+B09KNVRDNQ|226.56|4.6|558|700+|135|Camp Chef Everest 2X 2-Burner Camping Stove
+B0006VORDY|159.99|4.7|9500|300+|135|Camp Chef Explorer 2-Burner Outdoor Stove
+B0855B5Z6F|109.99|4.7|19700|10K+|136|Ninja Professional Plus Blender
+B0BS76NRG3|112.5|4.5|11900|10K+|136|nutribullet Pro+ Personal Blender
+B0CKTYP1JT|109.99|4.7|48300|8K+|136|Ninja Professional Blender 2.0
+B0BWSJVTCJ|489|4.4|926|2K+|136|Vitamix Propel Series 750 Blender
+B09SBRGSFH|119.94|4.5|4600|1K+|136|Ninja Foodi TWISTi Blender DUO
+B0C5R1C33B|150.85|4.4|619|500+|137|VEVOR Folding Hitch Cargo Carrier 500 lb
+B0DHZ5Y8JV|109.99|4.3|9000|400+|137|Waterproof Rooftop Cargo Carrier Bag (30 cu ft)
+B09G6L487Y|199.99|4.4|1500|400+|137|Hitch Mount Cargo Carrier Basket with Waterproof Bag
+B008CE0LIC|119.99|4.6|3500|200+|137|MaxxHaul Aluminum Hitch Cargo Carrier
+B00BCLL8C0|399.99|4.4|2300|200+|137|SportRack Vista XL Rear-Opening Cargo Box
+B073G49NPV|109.99|4.5|11800|100+|137|MaxxHaul Steel Roof Rack Cargo Basket
+B09W9MWN5R|169.99|4.4|1900|300+|138|WEIZE Folding Hitch Cargo Carrier Basket
+B011VP2DR0|142.46|4.6|2100|100+|138|Folding Hitch Cargo Carrier 60x23
+B08NW9916R|165.95|4.7|1600||139|SUV Tailgate Slide-On 48" Cargo Box Organizer
+B01H48094C|129.98|4.4|6900|2K+|140|Sterilite 4-Shelf Lockable Utility Cabinet
+B0194R5BSA|145.99|4.7|19300|1K+|140|FLEXIMOUNTS 4x8 Overhead Garage Storage Rack
+B01LYQGF4M|135.98|4.7|5300|1K+|140|FLEXIMOUNTS 2-Pack 2x6 ft Wall Garage Shelving
+B0G7DC84DG|279.99|4.4|5200|1K+|140|Metal Garage Storage Cabinet with Locking Doors
+B0D9M1WP59|103.99|4.4|3200|1K+|140|REIBII Heavy Duty Garage Shelving (2 pack)
+B0CSQYFQ5C|118.99|4.6|1500|1K+|140|Keter Stack N Roll Modular Storage System
+B0DT4DF7NY|119.99|4.4|213|200+|141|Heavy Duty Sports Equipment & Ball Storage Rack
+B0BSXRQ8ZW|111.99|4.7|278|100+|141|WALMANN Garage Sports Equipment Organizer
+B0741L1494|177|4.6|173|50+|141|Lifetime Home & Garage Storage Locker
+B07623L1S2|159.99|4.4|134|50+|141|MyGift Metal Multi-Sports Ball Storage Cart
+B08RZBRLN3|119.95|4.7|159||141|BirdRock Home Garage Sports Equipment Organizer
+B0FG9Q7P46|116.99|4.4|151||141|Vertical Wall Ball Storage Racks (6 pack)
+B0BJDDT69V|139.99|4.6|141||141|Extra-Large Ball & Sports Equipment Storage Rack
+B0DDPCCZ5H|109.27|4.4|105||141|Heavy Duty All-in-One Garage Sports Organizer
+B00099YJJK|135.99|4.3|466|100+|142|Tachikara Portable Ball Cart
+B00099YJL8|135.99|4.1|254|100+|142|Tachikara Collapsible Hammock Ball Cart
+B003O4OPJG|108|4.6|161|50+|142|Champro 12-Ball Rack with Casters
+B019YFV366|189.99|4.6|150|50+|142|Tachikara DS-1 Premium Ball Cart
+B002OM5JZS|149.99|4.5|208||142|Baden 3-Tier Rolling Basketball Rack
+B01JC0EXBK|129.99|4.1|177||142|Champion Sports Volleyball Cart & Equipment Storage
+B0CM3NGMZQ|109.97|4.4|2800|3K+|143|SpaceAid 7-Tier Rotating Shoe Rack Tower
+B0CBRBVL61|119.99|4.6|3200|800+|143|BORNOON Shoe Cabinet with 3 Flip Drawers
+B0C1GPR5MP|249.99|4.2|1000|300+|143|ANTBOX Portable Stackable Shoe Rack Organizer
+B0CN9SD8JF|115|4.7|16500|2K+|144|The North Face Borealis Backpack
+B0CN9SWZJK|125|4.7|6500|200+|144|The North Face Recon Backpack
+B0CN9SHHZ9|119.24|4.6|1600|500+|144|The North Face Surge Backpack
+B09TQPS7DF|152|4.5|347|200+|144|OGIO Renegade Pro Backpack
+B0CYSKY9F6|149.99|4.6|877|100+|144|Kuhome Bulk Drawstring Backpacks (300 pcs)
+B0CVSF5DBH|129.99|4.8|528|100+|145|Carhartt Utility 120L Duffel
+B081C7BBC6|144.99|4.3|2600|100+|145|Gonex Waterproof Rolling Duffle Bag
+B07HPNV3W6|117.9|4.1|6700|50+|145|Samsonite Andante 2 Wheeled Duffel 28"
+B07G1SMQ3X|215|4.2|707|50+|145|Travelpro Bold Drop-Bottom Wheeled Duffel
+B07HPLJLZJ|113.97|4.1|6700|200+|146|Samsonite Andante 2 Wheeled Duffel 32"
+B0G36GDR7G|150|4.6|182|100+|146|The North Face Base Camp Voyager Duffel
+B0FT6Y3B9J|119.99|4.4|758||146|Travolution Glitter Dance Bag with Garment Rack
+B0G3163RF8|139.99|4.6|643||146|Mavii 28" Rolling Dance Bag with Garment Rack
+B0DQQPJ2T3|194|4.6|750|300+|147|Michael Kors Jet Set Top Zip Tote
+B0F3Y39C2M|186.53|4.5|513|200+|147|Coach Town Tote
+B08KD5H24N|149.99|4.6|3000|100+|147|Marc Jacobs The Canvas Small Tote
+B0G6725TC3|100|4.8|2500|100+|147|Bogg Bag Original Large Tote
+B07DKHC9DM|114.8|4.7|5500|100+|148|Michael Kors Jet Set Large Crossbody
+B0DK485R17|157.29|4.6|258|200+|148|Coach Legacy Zip Top Crossbody
+B0D3FSCYVB|139|4.4|740|100+|148|Bellroy Venture Sling 6L
+B0F69NZFVG|118|4.3|297|200+|148|Portland Leather Goods Koala Sling Bag
+B0FLYDWQDZ|409|4.3|656|1K+|149|Meta Ray-Ban (Gen 2) Wayfarer Polarized
+B016DEKFVK|191|4.4|8200|500+|149|Ray-Ban RB2140 Original Wayfarer
+B0DQ2SHVQR|121.8|4.6|159|300+|149|Oakley Holbrook Sunglasses
+B002FU6UDO|179|4.5|2400|200+|149|Maui Jim Hookipa Polarized Sunglasses
+B0D7N72DB4|106|4.6|2900|200+|150|Skechers Women's Glide Step Slip-In Sneaker
+B08Q9W4CKR|100|4.6|3700|100+|150|Nike Women's Dunk Low Sneaker
+B0CN937271|169.96|4.4|380|100+|150|On Women's Cloudnova 2 Sneakers
+B0D31W5JDQ|158|4.2|562|50+|150|On Women's Cloud 6 Sneakers
+B0CTRXFMHT|100|4.3|744|50+|150|Allbirds Women's Tree Runner
+B0DF3LXT66|124.99|4.8|919|1K+|151|SurviveX Large First Aid Kit
+B0FND43WYX|159.99|4.8|197|600+|151|SurviveX Large Pro First Aid Kit
+B09CT9R1D6|149.99|4.8|1700|100+|151|Scherber First Responder Professional Kit
+B07B9L7P8G|105.99|4.8|671|100+|151|MFASCO Complete Emergency Response Trauma Bag
+B0C1TG5GSS|109.99|4.8|267|100+|151|Lightning X Mid-Sized First Responder Bag
+B09NC7WHVR|179.99|4.6|2900|800+|152|ASK ECHO T-Lock Golf Cart Bag
+B00HI9J3JU|106.77|4.5|4200|300+|152|Caddytek CaddyLite 11.5 V3 Golf Push Cart
+B083Z41DQS|299.98|4.2|2500|1K+|153|Hiboy S2 Electric Scooter
+B0DB5SGHX2|179.99|4.4|338|900+|153|Segway Ninebot C2 Lite Kids Electric Scooter
+B0CRDG6KMT|279.99|4|350|800+|153|Segway C2 Pro Kids Electric Scooter
+B0F62SVY89|349.99|4.1|335|700+|153|Segway Ninebot E2 Plus II Electric Scooter
+B086N23QBD|422.95|4.3|5700|600+|153|Hiboy S2 Pro Electric Scooter

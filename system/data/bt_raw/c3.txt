@@ -1,0 +1,59 @@
+B0CQL6CPPV|169|4.8|112|100+|54|HEAD Speed MP 2024 Tennis Racquet (strung)
+B005MZ7998|1399|4.2|113||55|Lobster Sports Elite Portable Tennis Ball Machine
+B00U5I1646|1049|4.2|113||55|Spinshot Pro Tennis Ball Machine
+B01JXI1I8W|1899|4.2|104||55|Spinshot Plus-2 Tennis Ball Machine
+B0DQ5XXPML|149.95|4.2|380|1K+|56|JOOLA Pro IV Raw Carbon Pickleball Paddle
+B0DQ5YDDPD|149.95|4.2|122|500+|56|JOOLA Agassi Pro IV 16mm Pickleball Paddle
+B09VCS7578|146.37|4.3|952|400+|56|JOOLA Ben Johns Hyperion CFS Pickleball Paddle
+B0C889ZMSV|149.99|4.6|570|400+|56|CRBN X Series Power Pickleball Paddle
+B0FQ7XX11W|109.99|4.4|310|400+|56|Vatic Pro V-Sol Pro 16mm Pickleball Paddle
+B0GFXT3CRW|299.95|4.4|162|300+|56|JOOLA Pro V Pickleball Paddle
+B0FPL1JV3P|199.99|4.5|196|200+|56|Selkirk LUXX Control Pickleball Paddle
+B09VCT9DMZ|129.95|4.6|739|100+|56|JOOLA Pickleball Paddle Set (2 paddles + balls)
+B0B57PQ5T1|179.95|4.4|370|100+|56|JOOLA Ben Johns CAS 16mm Pickleball Paddle
+B0CZ3DL41C|128.99|4.7|221|100+|56|T700 Raw Carbon Pickleball Paddle Set of 2
+B0DTQD3X8M|199.99|4.5|134|50+|56|CRBN TruFoam Genesis Pickleball Paddle
+B0GMR4V3F6|119.99|4.6|4900||56|Selkirk SLK Neo Pickleball Paddle Set of 2
+B0DT5LRHC5|104.99|4.6|135|200+|57|Pickleball Set: Net + 4 Paddles + Balls
+B0FNLGHPSZ|142.99|4.1|109|200+|57|Pro Pickleball Net with Wheels & Hand Crank
+B09MV65W77|110|4.5|14700|100+|57|Boulder Portable Badminton / Pickleball Net
+B00FSHFF2I|139.99|4.8|952|50+|57|Pickle-Ball 3.0 Tournament Pickleball Net
+B07DQJDGP7|339.99|4.5|295|50+|57|Pickle-Ball SwiftNet 2.1 Portable Net System
+B0GQB2FWXL|204.99|4.4|289|50+|57|Pro Aluminum Frame Pickleball Net
+B0BJD1ZB1V|179.99|4.3|205|50+|57|A11N Sports Pro Pickleball Net with Wheels
+B07XMKF4NM|179.99|4.5|137|50+|57|Franklin Sports Portable Pickleball Net
+B006U0X09W|189.93|4.6|390||57|Picklenet Portable Official Size Pickleball Net
+B01DIUG548|139.99|4.5|383||57|ONIX 2-in-1 Portable Pickleball Net
+B001UCCQ36|149.95|4.4|200||57|Wilson EZ Tennis Net
+B071XJVZC9|158.71|4.7|2800|200+|61|Precise X7 Kids Complete Golf Club Set
+B0DPBHKHV7|259.99|4.4|471|100+|61|PGA Tour Youth Golf Club Set (ages 8-12 & 12+)
+B07DWQTRCB|149|4.7|643|50+|61|Precise XDJ Junior Complete Golf Club Set
+B08L7H8C35|109.99|4.6|303|50+|61|Junior Girls Golf Set with Pink Clubs and Bag
+B0GGJJZTJ1|299.99|4.6|1100||61|Wilson Profile Junior Complete Golf Set
+B07FX7267W|279.99|4.4|265||61|Tour Edge HL-J Junior Complete Golf Set
+B0C9HXPF92|127.49|4.4|18200|4K+|62|SPORTSROYALS Free-Standing Pull-Up Bar Power Tower
+B071HT1DH1|129.99|4.4|8400|900+|62|RELIFE Free-Standing Pull-Up Bar Power Tower
+B0CQWWWHSC|144.99|4.6|408|500+|62|Adjustable Gymnastics Horizontal Bar for Kids
+B0722VRW3V|109.99|4.7|12600|400+|62|BalanceFrom 10x4 ft 4-Panel Folding Gymnastics Mat
+B07L8WW3QP|125.99|4.6|3600|200+|62|AKSPORT Gymnastics Air Mat Tumble Track
+B08QMMVH9F|149.99|4.6|577|100+|62|Gymnastics Bar for Kids Ages 3-15 (35-60")
+B0CDC11HZ9|129.59|4.4|317|100+|62|Bongkim Portable Pull-Up Station
+B0D8B9GJ27|119.99|4.7|261|100+|62|Premium Adjustable Dip Bars
+B0FHPNHHRZ|199.99|4.5|234|100+|62|Wall-Mounted Wooden Swedish Ladder Gymnastics Set
+B0D2VLDWQP|179.99|4.6|133|100+|62|Foldable 5 ft Gymnastics Bar for Kids
+B089GJSCTW|159.99|4.5|374|50+|62|Gymnastics Kip Bar for Kids & Teens
+B01C34QSKG|100.19|4.3|2200|200+|63|Bosu Sport Balance Trainer
+B09JWTCFZX|125.99|4.7|1000|100+|63|Marfual Adjustable Gymnastics Balance Beam
+B0D4LW9XJK|119.99|4.7|425|50+|63|8 ft Adjustable Balance Beam for Kids
+B006FF8YWA|119.99|4.6|725||63|Tumbl Trak Sectional Floor Balance Beam
+B0BX99H3RH|109.99|4.7|277||63|8 ft Adjustable & Foldable Balance Beam
+B09MHK2R61|119.99|4.7|213||63|8 ft Adjustable Balance Beam for Kids 6-12
+B0BRSKYBT7|169.99|4.7|884|200+|64|Kangaroo Hoppers Gymnastics Cheese Wedge Mat
+B089GSYQ4B|136.99|4.8|602|100+|64|Matladin Folding Gymnastics Cheese Wedge Mat
+B07WDR85X1|169.99|4.7|339|100+|64|We Sell Mats Bifolding Gymnastics Crash Mat
+B00ZAIW3G6|149.99|4.8|3200|50+|64|We Sell Mats 4x8 ft Folding Exercise Mat
+B08136DWMT|249|4.7|2300|50+|64|GXMMAT Extra Large Exercise Mat
+B0BRSND2XQ|119.99|4.7|387|50+|64|Kangaroo Hoppers Backbend & Handspring Wedge Mat
+B06XKLNQ5N|109.99|4.7|2800||64|Polar Aurora 4x10 ft Folding Gymnastics Mat
+B086L1FMPQ|165.99|4.7|1900||64|RitFit Folding Gymnastics Mat 2" Thick
+B006FFCBGK|472.99|4.8|1100||64|Tumbl Trak Folding Tumbling Panel Mat

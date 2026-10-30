@@ -1,0 +1,11 @@
+B082TMBYR6|289|4.6|11300|8K+|117|Jackery Explorer 300 Portable Power Station
+B0F42HLLSC|279.99|4.5|1200|4K+|117|BLUETTI Elite 30 V2 Portable Power Station
+B0D7PPG25F|559|4.7|3700|3K+|117|Jackery Explorer 1000 v2 Power Station
+B0FN7MSY4L|499.99|4.7|1700|2K+|117|Anker SOLIX C1000 Gen 2 Power Station
+B0C1SMJTDT|499|4.5|2800|1K+|117|BLUETTI AC180 Portable Power Station
+B0D62PMB3R|189.99|4.5|1700|1K+|117|Anker SOLIX C300 DC Power Station
+B0FQVC4RF5|499|4.7|1300|1K+|117|EcoFlow Delta 3 Classic Power Station
+B0G429L5B4|379|4.4|239|5K+|118|Jackery Solar Generator 300 with 40W Panel
+B0H98TT1MN|409.99|4.5|1100|500+|118|PowerSmart 4000W Portable Inverter Generator
+B08YJVDGS1|1199|4.7|3200|400+|118|Honda EU2200i Inverter Generator
+B0D3WR4CFR|521|4.4|550|500+|118|WEN 3600W Quiet Dual Fuel Inverter Generator
