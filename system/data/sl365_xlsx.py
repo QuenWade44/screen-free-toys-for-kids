@@ -1,6 +1,13 @@
 import sys
 sys.path.insert(0, "/home/claude")
 from sl365_build import rows, PROD, BOARD_NAMES, NEW_BOARDS, BOARDS
+from blog_seo import out as SEO
+SEOD = {o["day"]: o for o in SEO}
+for r in rows:  # pin copy now follows the post's primary keyword
+    o = SEOD[r["day"]]
+    sec = o["secondary"].split("; ")
+    r.update(phrase1=o["primary"], phrase2=sec[0], phrase3=sec[1] if len(sec) > 1 else "",
+             pin_title=o["pin_title"], pin_desc=o["pin_desc"], alt=o["alt"], post_title=o["h1"], slug=o["slug"])
 from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment
 from openpyxl.utils import get_column_letter
@@ -49,6 +56,13 @@ lines = [
  ("3. The post tells the story / solves the problem, then ends with a call to action: the full bundle with an 'add all to cart' button.", 10, False),
  ("4. Anything she adds to her Amazon cart within 24 hours of clicking counts for you, and stays credited for 89 days if she checks out later.", 10, False),
  ("", 10, False),
+ ("The customer journey (Blog SEO tab)", 11, True),
+ ("Problem: she has a problem right now (cold bleachers, smelly cleats, 95-degree field). Post = how-to / survival guide; the bundle is the fix.", 10, False),
+ ("Planning: she's getting ready (packing list, team mom duties, snack ideas). Post = checklist / ideas list; the bundle is the checklist.", 10, False),
+ ("Comparing: she's deciding what to buy (pitching machine, wagon, stadium seat). Post = setup or buying guide; the bundle is the setup.", 10, False),
+ ("Ready to buy: she's shopping for a gift. Post = gift guide; the bundle is the gift.", 10, False),
+ ("Each post: SEO title for Google, H1 that doubles as the pin title, an opening story hook, then the bundle call to action at the end.", 10, False),
+ ("", 10, False),
  ("Product rules (checked Oct 30, 2026)", 11, True),
  ("Under $100: 1,000+ bought last month on Amazon and 4.2+ stars. $100 and up: 100+ bought last month and 4.3+ stars. No sponsored listings.", 10, False),
  ("Search phrases are real Pinterest search suggestions pulled Oct 30, 2026 - the words moms actually type.", 10, False),
@@ -89,6 +103,18 @@ for row in ws.iter_rows(min_row=2, min_col=21, max_col=21):
         c.number_format = '"$"#,##0.00'
 ws.freeze_panes = "F2"
 ws["U1"].comment = Comment("Anchor + add-ons at Oct 30, 2026 Amazon prices. Re-checked monthly.", "Claude")
+
+# ---- Blog SEO ----
+ws = wb.create_sheet("Blog SEO", 2)
+data = [[o["day"], o["date"], o["product"], o["stage"], o["intent"], o["ptype"], o["primary"], o["secondary"],
+         o["seo_title"], len(o["seo_title"]), o["meta"], len(o["meta"]), o["h1"], "/" + o["slug"], o["hook"], o["cta"]] for o in SEO]
+table(ws, ["Day", "Date", "Anchor product", "Journey stage", "Search intent", "Post type", "Primary keyword (exact Pinterest search)",
+           "Secondary keywords", "SEO title (Google)", "Chars", "Meta description", "Chars", "H1 / Pin title", "URL slug",
+           "Story hook (opening line)", "Bundle call to action"],
+      data, [6, 11, 38, 13, 13, 13, 34, 48, 58, 6, 80, 6, 70, 48, 80, 70], "BlogSEO", wrap_cols=())
+ws.freeze_panes = "D2"
+ws["J1"].comment = Comment("Google shows about 60 characters of a title.", "Claude")
+ws["L1"].comment = Comment("Google shows about 155 characters of a meta description.", "Claude")
 
 # ---- Product list (all products) ----
 ws = wb.create_sheet("All Products")
