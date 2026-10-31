@@ -38,6 +38,23 @@ P = [
 ("B0FRNG2N5H","BowFlex SelectTech Adjustable Dumbbells","BowFlex SelectTech dumbbells",399.99,4.8,"334","3K+","home gym for teen boy","teen home gym ideas","garage gym ideas","Backyard Sports Training Equipment",
  "adjustable dumbbells that replace a full rack, so a teen athlete can lift at home in a small corner","clean garage gym corner with a bench and adjustable dumbbells, teen athlete doing curls, morning light"),
 ]
+QH = [
+("What do you get a baseball dad who already has everything?", "The gift he'll use every bullpen: a radar that clocks every pitch."),
+("What Christmas gift will a teen athlete actually use?", "The recovery tool they'll grab after every practice."),
+("Which backyard hoop grows with my kid?", "The height adjusts as they grow, so you only buy one hoop."),
+("How do I film my kid's games without shaky video?", "Clip in your phone and it follows the play for you."),
+("What do you get a runner who has everything?", "A GPS watch that tracks every mile, split and pace."),
+("How do I survive 3 hours on metal bleachers?", "Back support plus two heat zones. Your back will thank you."),
+("How do I stay warm at night games without 5 bulky layers?", "One thin battery-heated vest under your jacket. That's it."),
+("What do I get the mom who lives in the bleachers?", "Cozy boots she can slip on before every cold game."),
+("How do I feed the whole team at a tailgate?", "One portable griddle: pancakes at 7, burgers at noon."),
+("How do I keep phones and fans charged all tournament weekend?", "A quiet power station that charges everything from your canopy."),
+("How do we stay warm tailgating before a freezing game?", "A portable propane heater for the tailgate (check field rules first)."),
+("How do I get chairs, cooler and gear to the field in one trip?", "A double-decker wagon: chairs on top, cooler below, one trip."),
+("Where can my gymnast practice tumbling at home?", "An air track for cartwheels in the living room. Rolls up after."),
+("What basketball gift keeps them off screens all winter?", "Two hoops, a scoreboard, and nonstop shooting in the basement."),
+("How do I set up a teen home gym in a small space?", "One pair of adjustable dumbbells replaces a whole rack."),
+]
 TIMES = ["7:00 AM", "8:00 AM", "9:00 AM", "10:00 AM", "11:00 AM", "12:00 PM", "1:00 PM", "2:00 PM", "3:00 PM",
          "4:00 PM", "5:00 PM", "6:00 PM", "7:00 PM", "8:00 PM", "9:00 PM"]
 
@@ -58,15 +75,17 @@ for i, (a, name, short, price, stars, rev, bought, k1, k2, k3, board, what, scen
     vid = (f"9:16 or 2:3, 8-10 seconds. Shot 1 (3s): your brand avatar at the field/bleachers, looks at camera and points up "
            f"to the overlay \"{k1}\". Shot 2 (5s): {scene}. Slow push-in. End card: product name + \"Tap the pin\".")
     line = (f"Searching {k1}? Here's one parents are buying: the {short}. Tap the pin to see it.")
-    rows.append([i, "Sat Oct 31", TIMES[i - 1], name, price, stars, rev, bought, overlay, title, desc, alt, board,
+    q, hook = QH[i - 1]
+    rows.append([i, "Sat Oct 31", TIMES[i - 1], name, price, stars, rev, bought, overlay, q, hook, title, desc, alt, board,
                  f"https://www.amazon.com/dp/{a}?tag={TAG}", img, vid, line, f"day001-{i:02d}-{k1.replace(' ', '-')}", a])
     assert len(title) <= 100 and len(desc) <= 500, (title, len(desc))
+    assert len(hook) <= 75, hook
 
 wb = Workbook()
 ws = wb.active
 ws.title = "Day 1 - 15 Pins"
 hdr = ["#", "Day", "Post time (CT)", "Product", "Price (Oct 30)", "Stars", "Reviews", "Bought last month",
-       "Text overlay (exact search phrase)", "Pin title", "Pin description", "Alt text", "Pinterest board", "Amazon affiliate link",
+       "Text overlay (exact search phrase)", "The question she's asking", "Hook (answers it, on the pin under the overlay)", "Pin title", "Pin description", "Alt text", "Pinterest board", "Amazon affiliate link",
        "Image prompt (OpenArt / Runway)", "Video plan (8-10 sec)", "Avatar line (caption or voice)", "File name", "ASIN"]
 ws.append(hdr)
 for r in rows:
@@ -79,13 +98,13 @@ for c in ws[1]:
 for row in ws.iter_rows(min_row=2):
     for c in row:
         c.font = Font(name=F, size=10)
-        c.alignment = Alignment(vertical="top", wrap_text=c.column in (10, 11, 12, 15, 16, 17))
-        if c.column == 14:
+        c.alignment = Alignment(vertical="top", wrap_text=c.column in (10, 11, 12, 13, 14, 17, 18, 19))
+        if c.column == 16:
             c.hyperlink = c.value
             c.font = Font(name=F, size=10, color="0563C1", underline="single")
         if c.column == 5:
             c.number_format = '"$"#,##0.00'
-W = [4, 10, 10, 34, 10, 6, 9, 10, 30, 40, 60, 45, 30, 42, 55, 55, 45, 34, 13]
+W = [4, 10, 10, 34, 10, 6, 9, 10, 30, 38, 42, 40, 60, 45, 30, 42, 55, 55, 45, 34, 13]
 for i, w in enumerate(W, 1):
     ws.column_dimensions[get_column_letter(i)].width = w
 t = Table(displayName="Day1", ref=f"A1:{get_column_letter(len(hdr))}{len(rows)+1}")
@@ -96,6 +115,7 @@ ws2 = wb.create_sheet("Rules")
 rules = [
  "Every product: $100+, 4.0+ stars, 100+ reviews, not an ad. Today's 15 also sold 100+ last month and have 4.5+ stars (Best Bets).",
  "Text overlay = the exact search phrase, word for word. Pin title starts with it. Description uses it first, then 2 related phrases.",
+ "Every pin names the question she has when she types that phrase, and the hook (one line under the overlay) answers it. Keep hooks under 75 characters.",
  "No prices, star ratings or review counts on the pin or in the voiceover (Amazon only allows those when pulled live from Amazon).",
  "No Amazon product photos. Use your own photos, brand-approved media, or AI lifestyle scenes like the prompts here.",
  "Your avatar is a host, not a customer: it can point, explain and say 'parents are buying'. It never says 'I bought/use/love this'.",
@@ -107,4 +127,4 @@ for i, r in enumerate(rules, 1):
     c.font = Font(name=F, size=10)
 ws2.column_dimensions["A"].width = 140
 wb.save("/home/claude/Sideline_Ready_Day1_15_Pins.xlsx")
-print("ok", len(rows), max(len(r[9]) for r in rows), max(len(r[10]) for r in rows))
+print("ok", len(rows), max(len(r[11]) for r in rows), max(len(r[12]) for r in rows), max(len(r[10]) for r in rows))
